@@ -106,7 +106,7 @@ python manage.py runserver
 
 ## ✅ Task API Endpoints
 
-All routes below require a valid access token.
+All routes under `/api/tasks` require a valid access token.
 
 | Method | Endpoint                   | Description       |
 |--------|----------------------------|-------------------|
