@@ -39,7 +39,7 @@ todo-list-api/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/todo-list-api.git
+git clone https://github.com/M-Elhawawshy/todo-api.git
 cd todo-list-api
 ```
 
